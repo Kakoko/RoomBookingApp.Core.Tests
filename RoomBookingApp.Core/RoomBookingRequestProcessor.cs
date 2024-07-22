@@ -1,7 +1,8 @@
 ﻿
-namespace RoomBookingApp.Core.Tests
-{
-    internal class RoomBookingRequestProcessor
+namespace RoomBookingApp.Core 
+{ 
+
+    public class RoomBookingRequestProcessor
     {
         public RoomBookingRequestProcessor()
         {

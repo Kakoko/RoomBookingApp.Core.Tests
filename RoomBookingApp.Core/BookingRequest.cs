@@ -1,6 +1,7 @@
-﻿namespace RoomBookingApp.Core.Tests
+﻿
+namespace RoomBookingApp.Core
 {
-    public class RoomBookingResult
+    public class BookingRequest
     {
         public string FullName { get; set; }
         public string Email { get; set; }
